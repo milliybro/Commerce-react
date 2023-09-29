@@ -1,0 +1,11 @@
+.nav-link{
+   font-size: 20px !important;
+   color: black !important;
+}
+.active {
+   color: blueviolet !important;
+}
+
+.nav-link:hover{
+   color: blue !important;
+}
